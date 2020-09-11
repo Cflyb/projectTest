@@ -9,5 +9,6 @@ package com;
 public class Hello {
     public static void main(String[] rags){
         System.out.println("hello,world");
+        System.out.println("hello,world");
     }
 }
