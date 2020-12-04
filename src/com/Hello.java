@@ -12,9 +12,10 @@ public class Hello {
         System.out.println("hello,world");
         System.out.println("hahaahahahhaahhaah");
 		System.out.println("添加一行");
-				System.out.println("添加一行");
 		System.out.println("添加一行");
-
+		System.out.println("添加一行");
+  System.out.println("hahaahahahhaahhaah");
+  System.out.println("hahaahahahhaahhaah");
 System.out.println("hello,world");
     }
 }
